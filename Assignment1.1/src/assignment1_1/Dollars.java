@@ -1,4 +1,4 @@
-  /*
+/*
 * Blaine Smith 
 * June 14, 2020
 * Assignment 1.1
